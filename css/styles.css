@@ -1,5 +1,5 @@
 html {
-  background-color: white;
+  background-color: black;
 }
 
 h1{
@@ -9,6 +9,7 @@ h1{
 
 h2{
 color: blue;
+text-align: center;
 }
 
 .sidebar{
@@ -18,11 +19,13 @@ color: blue;
   text-align: center;
   padding: 30px;
   color: white;
+  border: 10px solid white;
+  -moz-box-align: center;
 }
 
 img{
-  border: 10px solid green;
-  padding: 2px;
+  border: 10px solid white;
+  padding: 20px;
   background-color: blue;
   margin-top: 20px;
   margin-bottom: 20px;
