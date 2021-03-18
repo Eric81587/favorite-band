@@ -1,0 +1,17 @@
+
+
+ul{
+  background-color: yellow;
+  color: cyan;
+  float: inline-start;
+  padding: 20px;
+  border: whitesmoke 20px;
+}
+
+html {
+  background-color: black;
+}
+
+h1{
+  color: white;
+}
