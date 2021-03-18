@@ -1,17 +1,30 @@
-
-
-ul{
-  background-color: yellow;
-  color: cyan;
-  float: inline-start;
-  padding: 20px;
-  border: whitesmoke 20px;
-}
-
 html {
-  background-color: black;
+  background-color: white;
 }
 
 h1{
+  color: blue;
+  text-align: center;
+}
+
+h2{
+color: blue;
+}
+
+.sidebar{
+  width: 130px;
+  float: center;
+  background-color: blue;
+  text-align: center;
+  padding: 30px;
   color: white;
+}
+
+img{
+  border: 10px solid green;
+  padding: 2px;
+  background-color: blue;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
 }
